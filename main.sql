@@ -1,4 +1,4 @@
--- Create Authors Table
+-- Create Authors Table.
 CREATE TABLE IF NOT EXISTS Authors (
     AuthorID INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(255) NOT NULL,
