@@ -205,7 +205,7 @@ Replace your_username with your MySQL username and Enter your password when prom
 ### Requirements
 
     - MySQL Server (or compatible SQL database)
-    - Basic SQL knowledge
+    - Basic SQL knowledge.
 
 
 ### Notes:
